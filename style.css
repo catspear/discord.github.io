@@ -1,0 +1,48 @@
+body	{
+	background-color: rgb(30, 33, 36);
+	color: rgba(114, 137, 218, 90);
+	font-family: "Product Sans";
+	padding-top: 15px;
+	margin: auto;
+}
+header {
+	width: auto;
+	background-color: rgba(114, 137, 218, 90);
+	position: sticky;
+	position: -webkit-sticky; 
+	text-align: center;
+}
+.bucin	{
+	background-image: url(banner.png);
+    background-position: left;
+    width: auto;
+    height: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.konten	{
+	text-align: right;
+	margin-right: 30px;
+}
+
+a	{
+	color: #bebece;
+}
+.theme	{
+	color: white;
+	font-size: 150%;
+	text-align: center;
+}
+
+.subtheme	{
+	text-align: center;
+}
+
+.konten	{
+	text-align: right;
+	margin-right: 100px;
+}
+
+a	{
+	color: #bebece;
+}
